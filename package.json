@@ -1,5 +1,5 @@
 {
-  "name": "nextra",
+  "name": "stoika-docs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -23,5 +23,6 @@
   "prettier": {
     "semi": false,
     "singleQuote": true
-  }
+  },
+  "keywords": []
 }
