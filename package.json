@@ -1,14 +1,14 @@
 {
   "name": "stoika-docs",
   "version": "1.0.0",
-  "description": "",
+  "description": "Stoic Resources App",
   "main": "index.js",
   "scripts": {
     "dev": "next",
     "start": "next start",
     "build": "next build"
   },
-  "author": "Shu Ding",
+  "author": "Bernardo Anderson",
   "license": "MIT",
   "dependencies": {
     "next": "^11.0.1",
