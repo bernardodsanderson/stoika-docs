@@ -11,11 +11,11 @@
   "author": "Bernardo Anderson",
   "license": "MIT",
   "dependencies": {
-    "next": "^11.0.1",
-    "nextra": "^1.1.0",
-    "nextra-theme-docs": "^1.2.2",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "next": "12.1.1-canary.17",
+    "nextra": "2.0.0-beta.5",
+    "nextra-theme-docs": "2.0.0-beta.5",
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
   },
   "devDependencies": {
     "prettier": "^2.0.5"
